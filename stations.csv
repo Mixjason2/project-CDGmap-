@@ -1,9 +1,4 @@
 station_name,line,nearby,latitude,longitude
-Bang Na,BTS Sukhumvit Line,Bang Na Intersection,13.6682,100.6075
-Udom Suk,BTS Sukhumvit Line,One Udomsuk,13.6771,100.6067
-Punnawithi,BTS Sukhumvit Line,True Digital Park,13.6906,100.6028
-Bang Chak,BTS Sukhumvit Line,Bang Chak Market,13.695,100.5997
-On Nut,BTS Sukhumvit Line,Century On Nut,13.6965,100.6003
 Phra Khanong,BTS Sukhumvit Line,Gateway Ekkamai,13.7152,100.5918
 Ekkamai,BTS Sukhumvit Line,Major Cineplex Sukhumvit,13.7194,100.586
 Thong Lo,BTS Sukhumvit Line,72 Courtyard,13.7245,100.5793
@@ -13,3 +8,13 @@ Nana,BTS Sukhumvit Line,Korean Town,13.74,100.5564
 Ploen Chit,BTS Sukhumvit Line,Central Embassy,13.7441,100.5495
 Chit Lom,BTS Sukhumvit Line,CentralWorld,13.7468,100.5392
 Siam,BTS Sukhumvit Line,Siam Paragon,13.746,100.5346
+Hua Lamphong,MRT Blue Line,Hua Lamphong Railway Station,13.733,100.517
+Sam Yan,MRT Blue Line,Sam Yan Market,13.7242,100.532
+Silom,MRT Blue Line,Silom Complex,13.7281,100.5408
+Bang Sue,MRT Red Line,Bang Sue Grand Station,13.7485,100.5467
+Ratchaprarop,ARL (Airport Rail Link),Ratchaprarop Market,13.8111,100.5402
+Phaya Thai,ARL (Airport Rail Link),Phaya Thai Station,13.755,100.5708
+Makkasan,ARL (Airport Rail Link),Makkasan Complex,13.7614,100.5687
+Ramkhamhaeng,MRT Red Line,Ramkhamhaeng University,13.7465,100.6047
+Hua Mak,MRT Red Line,Hua Mak Station,13.7401,100.6013
+Khlong Tan,MRT Blue Line,Khlong Tan Market,13.7487,100.609
